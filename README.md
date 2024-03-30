@@ -8,6 +8,6 @@ Khorrami, K., Blandón, M. A. C., Virtanen, T., & Räsänen, O. (2023, September
 
 # Model Source
 
-This project's model is based on the work from the following repository:
+This project's model is based on the work from the following repository, and it is essential to acknowledge and credit the creators for their valuable work:
 
 https://github.com/jasonppy/FaST-VGS-Family
