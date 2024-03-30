@@ -1,3 +1,4 @@
+# This file is mostly copied from: https://github.com/jasonppy/FaST-VGS-Family/blob/master/steps/trainer.py
 import time
 import os
 import torch

@@ -1,3 +1,4 @@
+# This file is mostly copied from: https://github.com/jasonppy/FaST-VGS-Family/blob/master/models/fast_vgs.py
 # coding=utf-8
 # Copyright 2022 project FaST-VGS.
 # Copyright 2019 project LXRT.

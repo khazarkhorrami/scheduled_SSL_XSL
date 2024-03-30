@@ -1,3 +1,4 @@
+# This file is mostly copied from: https://github.com/jasonppy/FaST-VGS-Family/blob/master/datasets/spokencoco_dataset.py
 import json
 import random
 import numpy as np
