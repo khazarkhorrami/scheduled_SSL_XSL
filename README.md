@@ -17,5 +17,5 @@ Specifically, the scripts located in the 'datasets,' 'models,' 'steps,' and the 
 Two main changes have been applied to the original scripts:
 
 1. The scripts in the "models" and "steps" directories are modified to run only for the fast (FaST) version of the original Fast-Slow Transformer model for the purpose of efficiency.
-2. The loss weighting function in the "trainer" is controlled by the factor of alpha for the relative weighting between VGS and SSL pipelines.
+2. The loss weighting function in the "trainer" is controlled by the factor of "alpha" for the relative weighting between VGS and SSL pipelines.
 
