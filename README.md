@@ -24,7 +24,9 @@ Two main changes have been applied to the original scripts:
 We utilize SpokenCOCO spoken captions paired with MSCOCO images for training the models. The data can be downloaded from the following link:
 [SpokenCOCO Dataset](https://groups.csail.mit.edu/sls/downloads/placesaudio/index.cgi)
 
-Please refer to the model source repository for JSON files containing the names and pairings of the speech and image files in the Karpathy split.
+Please refer to the model source repository for JSON files containing the names and pairings of the speech and image files in the Karpathy split. 
+
+In this work, we employ the train set of the COCO data for training the models and the test set of COCO data for evaluating the model on the semantic audiovisual retrieval task. To evaluate the model representations on the phonemic level, we apply the ABX phoneme discrimination task using the LibriSpeech clean test set. LibriSpeech can be downloaded from this link: [LibriSpeech Dataset](https://www.openslr.org/12).
 
 # How to Use
 
