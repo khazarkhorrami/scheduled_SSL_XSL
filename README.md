@@ -1,4 +1,4 @@
-# scheduled_VGS_plus
+# scheduled_SSL_XSL_plus
 
 This repository contains the instructions and scripts to replicate experiments reported in:
 
