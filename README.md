@@ -1,4 +1,4 @@
-# scheduled_SSL_XSL_plus
+# scheduled_SSL_plus
 
 This repository contains the instructions and scripts to replicate experiments reported in:
 
