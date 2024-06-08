@@ -31,3 +31,8 @@ In this work, we employ the train set of the COCO data for training the models a
 # Model Description
 
 The VGS+ model combines a wav2vec 2.0-based speech self-supervised learning (SSL) and a transformer-based visually grounded speech (VGS) learning mechanisms within one model as described in [the original paper by Peng & Harwath.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9747103&casa_token=n4fGgF6mHrcAAAAA:jI4E13PB2SNrkvPTXxhhNgXiE2BSTVgXwv9UD_GHCeY54vpjHyZiTXdwf4HNqOT937tOyIXv-Q&tag=1)
+
+
+# Training curves
+
+![fig_loss](https://github.com/khazarkhorrami/scheduled_SSL_plus/assets/33454475/04908ce4-c5f8-4d97-8384-c7f00d4f9aca)
